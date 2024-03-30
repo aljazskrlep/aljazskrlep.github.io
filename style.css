@@ -1,0 +1,206 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: forestgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    font-size: 200px;
+    color: white;
+    font-weight: lighter;
+    margin: 0;
+}
+
+h2 {
+    font-family: Georgia, serif;
+    font-size: 1em;
+    color: white;
+    font-weight: normal;
+    margin: 0;
+    margin-left: 2vh;
+}
+
+#title {
+    height: 100vh;
+}
+
+section {
+    display: flex;
+}
+
+.box {
+    color: white;
+    position: relative;
+    left: 10px;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 14px;
+    margin: 8vh 12vh;
+    background-color: #572f10;
+}
+
+#box1 {
+    background-color: #155900;
+}
+
+#box2 {
+    background-color: #48da31;
+}
+
+#box3 {
+    background-color: #714a2d;
+}
+
+#box4 {
+
+    background-color: #878787;
+}
+
+#box5 {
+    background-color: #ff8b5a99;
+}
+
+.footer {
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+    position: relative;
+    left: 630px;
+}
+
+a {
+    color: white;
+  }
+
+  .soil_box {
+    color: white;
+    position: relative;
+    right: -60vh;
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 14px;
+    margin: 8vh 10vh;
+    background-color: #572f10;
+}
+
+.wild_plants_box {
+    color: white;
+    position: relative;
+    right: -155vh;
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 14px;
+    margin: 8vh 10vh;
+    background-color: #572f10;
+}
+
+.wild_plants_box img {
+    position: absolute; /* Position the image relative to its container */
+    top: 0;
+    left: 0;
+    width: 100%; /* Ensure the image fills the width of the box */
+    height: 100%; /* Ensure the image fills the height of the box */
+}
+
+.soil_box img {
+    position: absolute; /* Position the image relative to its container */
+    top: 0;
+    left: 0;
+    width: 100%; /* Ensure the image fills the width of the box */
+    height: 100%; /* Ensure the image fills the height of the box */
+}
+
+.compost_box {
+    color: white;
+    position: relative;
+    right: -250vh;
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 14px;
+    margin: 8vh 10vh;
+    background-color: #572f10;
+}
+
+.compost_box img {
+    position: absolute; /* Position the image relative to its container */
+    top: 0;
+    left: 0;
+    width: 100%; /* Ensure the image fills the width of the box */
+    height: 100%; /* Ensure the image fills the height of the box */
+}
+
+.rocks_box {
+    color: white;
+    position: relative;
+    right: -220vh;
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 14px;
+    margin: 8vh 10vh;
+    background-color: #572f10;
+}
+
+.rocks_box img {
+    position: absolute; /* Position the image relative to its container */
+    top: 0;
+    left: 0;
+    width: 100%; /* Ensure the image fills the width of the box */
+    height: 100%; /* Ensure the image fills the height of the box */
+}
+
+.domesticated_plants_box {
+    color: white;
+    position: relative;
+    right: -155vh;
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 14px;
+    margin: 8vh 10vh;
+    background-color: #572f10;
+}
+
+.domesticated_plants_box img {
+    position: absolute; /* Position the image relative to its container */
+    top: 0;
+    left: 0;
+    width: 100%; /* Ensure the image fills the width of the box */
+    height: 100%; /* Ensure the image fills the height of the box */
+}
+
+.tools_box {
+    color: white;
+    position: relative;
+    right: -92vh;
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 14px;
+    margin: 8vh 10vh;
+    background-color: #572f10;
+}
+
+.tools_box img {
+    position: absolute; /* Position the image relative to its container */
+    top: 0;
+    left: 0;
+    width: 100%; /* Ensure the image fills the width of the box */
+    height: 100%; /* Ensure the image fills the height of the box */
+}
