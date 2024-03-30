@@ -75,6 +75,13 @@ section {
     left: 630px;
 }
 
+footer {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    color: white;
+}
+
 a {
     color: white;
   }
